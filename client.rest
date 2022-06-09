@@ -1,0 +1,24 @@
+POST    http://localhost:3127/product/check
+Content-Type: application/json
+
+{
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9zc2FtYWhlZGxpQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoib3NzYW1hIiwiaWQiOjE4LCJpYXQiOjE2MjIwMjE2NDQsImV4cCI6MTYyMjA1NDA0NH0.vLNKEc8x2sT6vWBiWF74ZjhDpriJ6wGcAt7gJeUbrao"
+
+}
+###
+POST http://localhost:3127/joueur/
+Content-Type: application/json
+
+{
+    "userName" : "fgfgdfg",
+    "email":"ossamahedli@gmail.com",
+    "password" : "voiture",
+    "nom_joueur" : "200dt",
+    "prenom_joueur" : "500dt",
+    "cin_joueur" : "2316489",
+    "classment" : "ioio"
+}
+###
+GET http://localhost:3127/product/getProduct/5
+###
+DELETE http://localhost:3127/joueur/3
