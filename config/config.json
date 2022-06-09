@@ -1,25 +1,25 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "sui_suap",
-    "host": "127.0.0.1",
+    "username": "qc0753m6_amdono",
+    "password": "YQ093Yv!0prd",
+    "database": "qc0753m6_tesfg",
+    "host": "80.88.84.238",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "qc0753m6_amdono",
+    "password": "YQ093Yv!0prd",
+    "database": "qc0753m6_tesfg",
+    "host": "80.88.84.238",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "qc0753m6_amdono",
+    "password": "YQ093Yv!0prd",
+    "database": "qc0753m6_tesfg",
+    "host": "80.88.84.238",
     "dialect": "mysql",
     "operatorsAliases": false
   }
